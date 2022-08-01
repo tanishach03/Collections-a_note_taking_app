@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Collections-a_note_taking_app/static/js/main.c1feff47.chunk.js",
+    "main.js.map": "/Collections-a_note_taking_app/static/js/main.c1feff47.chunk.js.map",
+    "runtime-main.js": "/Collections-a_note_taking_app/static/js/runtime-main.9e0d3a5e.js",
+    "runtime-main.js.map": "/Collections-a_note_taking_app/static/js/runtime-main.9e0d3a5e.js.map",
+    "static/js/2.79aacc08.chunk.js": "/Collections-a_note_taking_app/static/js/2.79aacc08.chunk.js",
+    "static/js/2.79aacc08.chunk.js.map": "/Collections-a_note_taking_app/static/js/2.79aacc08.chunk.js.map",
+    "index.html": "/Collections-a_note_taking_app/index.html",
+    "precache-manifest.7c856603c2c4401c8c79800d99d82383.js": "/Collections-a_note_taking_app/precache-manifest.7c856603c2c4401c8c79800d99d82383.js",
+    "service-worker.js": "/Collections-a_note_taking_app/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e0d3a5e.js",
+    "static/js/2.79aacc08.chunk.js",
+    "static/js/main.c1feff47.chunk.js"
+  ]
+}
