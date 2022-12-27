@@ -1,1 +1,1 @@
-# Collections--a-note-taking-app
+# Collections- a note taking app
